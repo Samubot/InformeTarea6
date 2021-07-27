@@ -32,8 +32,20 @@ Capitulo 12
 
 ![](Img/8.jpg)
 
+![](Img/1..png)
 
+![](Img/2..png)
 
+![](Img/3..png)
 
+![](Img/4..png)
 
+![](Img/5..png)
 
+![](Img/6..png)
+
+![](Img/7..png)
+
+![](Img/8..png)
+
+![](Img/9..png)
