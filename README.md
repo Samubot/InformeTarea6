@@ -1,22 +1,27 @@
 # InformeTarea6
 
-1. OBJETIVOS
-1.1. OBJETIVO GENERAL
+☻ Generales:
 
-Experimentar con los elementos de medida básicos desde el punto de vista eléctrico y su aplicación en circuitos. El conocimiento de los distintos métodos de resolución de los circuitos eléctricos, así como el estudio de la relación existente entre mallas, nodos corrientes y voltaje.
+* Ser capaces de reconocer los diferentes tipos de Circuitos en serie-paralelo a profundidad de los conceptos fundamentales.
 
-1.2. OBJETIVOS ESPECÍFICOS
+* Conocer los métodos de análisis, Fuentes de corriente en paralelo y en serie a través del análisis de corriente de ramas.
 
-Practicar los distintos métodos de resolución de circuitos.
-Conocer el funcionamiento de los elementos eléctricos.
-Reconocer los elementos que conforman un circuito eléctrico.
-Comprender la teoría de cada método de resolución
+☻Específicos:
+
+* Analizar y calcular los ejercicios del capitulo 7 y 8 con lo conocimientos adquiridos en clase. 
+
+* Demostrar los distintos métodos de resolución de circuitos.
+
+* Analizar el circuito para encontrar sus elementos y entender su función.
+
+* Reforzar los conocimientos establecidos en clase por medio de la resolución de ejercicios.
+
+2. Marco Teorico 
 
 
 
-2. MARCO TEÓRICO (RESUMEN)
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-3. RESOLUCIÓN DE EJERCICIOS
 Capitulo 11
 
 
@@ -67,3 +72,15 @@ Capitulo 12
 ![](Img/8..png)
 
 ![](Img/9..png)
+
+4. VDEO:
+
+6. CONCLUSIONES
+
+*Tras resolver y conocer los diferentes tipos de Circuitos en serie-paralelo somos capaces de aplicarlos sobre circuitos eléctricos.
+
+*Ahora que conocemos los métodos de análisis, Fuentes de corriente en paralelo y en serie podemos resolver problemas de circuitos eléctricos con el análisis de ramas, nodos, mallas facilitándonos los cálculos.  
+
+* En relacion a lo expuesto podemos concluir que estamos preparados para realizar ,analizar y resolver ejercicios que se nos presentaron en estos capitulos
+
+8. BIBLIOGRAFÍA
