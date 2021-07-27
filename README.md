@@ -1,5 +1,7 @@
 # InformeTarea6
 Capitulo 11
+
+
 ![](Img/1,3,5.PNG)
 
 ![](Img/7.PNG)
