@@ -75,6 +75,8 @@ Capitulo 12
 
 4. VDEO:
 
+https://youtu.be/byxpiokMCZY
+
 6. CONCLUSIONES
 
 *Tras resolver y conocer los diferentes tipos de Circuitos en serie-paralelo somos capaces de aplicarlos sobre circuitos eléctricos.
