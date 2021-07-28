@@ -49,7 +49,7 @@ Capitulo 11
 
 ![](Img/11-7.jpg)
 
-
+![](Img/11-9.jpg)
 
 
 ![](Img/43.jpg)
