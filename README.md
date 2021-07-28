@@ -104,3 +104,5 @@ https://youtu.be/byxpiokMCZY
 * En relacion a lo expuesto podemos concluir que estamos preparados para realizar ,analizar y resolver ejercicios que se nos presentaron en estos capitulos
 
 8. BIBLIOGRAFÍA
+
+Allan.H.Wilhelm.C.(2008). Análisis de circuitos teoría y práctica. Santa Fe, México: Cengage learning editores.
