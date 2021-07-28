@@ -18,6 +18,8 @@
 
 2. Marco Teorico 
 
+![](Img/mapa1.jpg)
+
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
