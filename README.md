@@ -35,6 +35,22 @@ Capitulo 11
 
 ![](Img/15,17,19,21.PNG)
 
+![](Img/11-1.jpg)
+
+![](Img/11-2.jpg)
+
+![](Img/11-3.jpg)
+
+![](Img/11-4.jpg)
+
+![](Img/11-5.jpg)
+
+![](Img/11-6.jpg)
+
+![](Img/11-7.jpg)
+
+
+
 
 ![](Img/43.jpg)
 
